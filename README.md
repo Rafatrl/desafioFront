@@ -4,6 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Este projeto foi produzido de acordo com as solicitações:
 
-HTML 5;
-JAVASCRIPT (Reactjs);
+HTML 5
+JAVASCRIPT (Reactjs)
 CSS 3 (Bootstrap, Responsivo)
